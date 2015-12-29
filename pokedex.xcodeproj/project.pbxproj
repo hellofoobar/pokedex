@@ -14,6 +14,9 @@
 		F28D31B61C322E85007F1A2C /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = F28D31B41C322E85007F1A2C /* LaunchScreen.storyboard */; };
 		F28D31C11C322E85007F1A2C /* pokedexTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = F28D31C01C322E85007F1A2C /* pokedexTests.swift */; };
 		F28D31CC1C322E85007F1A2C /* pokedexUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = F28D31CB1C322E85007F1A2C /* pokedexUITests.swift */; };
+		F28D31DA1C3238AF007F1A2C /* pokemon.csv in Resources */ = {isa = PBXBuildFile; fileRef = F28D31D91C3238AF007F1A2C /* pokemon.csv */; };
+		F28D31DB1C3238AF007F1A2C /* pokemon.csv in Resources */ = {isa = PBXBuildFile; fileRef = F28D31D91C3238AF007F1A2C /* pokemon.csv */; };
+		F28D31DC1C3238AF007F1A2C /* pokemon.csv in Resources */ = {isa = PBXBuildFile; fileRef = F28D31D91C3238AF007F1A2C /* pokemon.csv */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -47,6 +50,7 @@
 		F28D31C71C322E85007F1A2C /* pokedexUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = pokedexUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		F28D31CB1C322E85007F1A2C /* pokedexUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = pokedexUITests.swift; sourceTree = "<group>"; };
 		F28D31CD1C322E85007F1A2C /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		F28D31D91C3238AF007F1A2C /* pokemon.csv */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = pokemon.csv; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -101,6 +105,7 @@
 				F28D31AD1C322E85007F1A2C /* ViewController.swift */,
 				F28D31AF1C322E85007F1A2C /* Main.storyboard */,
 				F28D31B21C322E85007F1A2C /* Assets.xcassets */,
+				F28D31D91C3238AF007F1A2C /* pokemon.csv */,
 				F28D31B41C322E85007F1A2C /* LaunchScreen.storyboard */,
 				F28D31B71C322E85007F1A2C /* Info.plist */,
 			);
@@ -231,6 +236,7 @@
 			files = (
 				F28D31B61C322E85007F1A2C /* LaunchScreen.storyboard in Resources */,
 				F28D31B31C322E85007F1A2C /* Assets.xcassets in Resources */,
+				F28D31DA1C3238AF007F1A2C /* pokemon.csv in Resources */,
 				F28D31B11C322E85007F1A2C /* Main.storyboard in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
@@ -239,6 +245,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				F28D31DB1C3238AF007F1A2C /* pokemon.csv in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -246,6 +253,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				F28D31DC1C3238AF007F1A2C /* pokemon.csv in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
